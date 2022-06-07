@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombre": "Damita",
+    "apellido": "Nisius",
+    "estudios": [
+      "Manhattanville College",
+      "Pyongtaek University ",
+      "Oregon College of Arts and Crafts"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Luz",
+    "apellido": "Gateley",
+    "estudios": [
+      "Ave Maria University",
+      "Bethlehem University",
+      "Ashland University"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Heida",
+    "apellido": "Folling",
+    "estudios": [
+      "Corporación Universitaria Tecnológica de Bolivar",
+      "Izmir Institute of Technology",
+      "Universidad Nacional de Lanus"
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Linus",
+    "apellido": "Pentlow",
+    "estudios": [
+      "The Corcoran College of Art",
+      "Universidad Autónoma Metropolitana",
+      "University of Connecticut"
+    ]
+  }
+]
